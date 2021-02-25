@@ -1,0 +1,14 @@
+r1-3.3v
+c1-pb0
+c2-pb1
+c3-pb2
+c4-pb3
+
+
+s1-cw rot
+s2-ccw rot
+s3-slow down
+s4-speed up
+
+
+I changed the code,name is lab3pre but it works for question 2.(full cycle half step)
